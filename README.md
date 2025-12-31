@@ -1,17 +1,18 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
+**This is a self-learning and project.**
 
 
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+Cafe Cozy is a fictional café that sells pastries and beverages through both in-store and takeaway orders.
+
+The company collects detailed sales data from daily transactions, and operates a straightforward business model where customers place and pay for orders at the counter. This project analyzes and synthesizes that sales data to uncover insights that can help improve Cafe Cozy’s commercial performance and support data-driven decision making.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Sales Performance:** How much the cafe is selling and how revenue is trending.
+- **Product Performance:** Which items sell the most and contribute most to revenue.   
+- **Customer & Order Behaviour:** How customers buy, including order spize, spend, and channel (in-store vs takeaway).
+- **Payment Behaviour:** Which payment methods customers prefer and how they impact spending. 
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
