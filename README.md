@@ -35,7 +35,7 @@ Below is the overview page from the Power BI dashboard:
 # Insights Deep Dive
 ### Sales Performance: 
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* The company's sales peaked in June 2023, totalling $6,684.50 monthly revenue. This suggests that during the warmer-weather foot traffic increases, and there is increased demand for beverages & cold items like Smoothies and Juices.
   
 * **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
