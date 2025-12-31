@@ -14,9 +14,9 @@ Insights and recommendations are provided on the following key areas:
 - **Customer & Order Behaviour:** How customers buy, including order spize, spend, and channel (in-store vs takeaway).
 - **Payment Behaviour:** Which payment methods customers prefer and how they impact spending. 
 
-The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/Cafe_Data_Clean.sql.
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/Cafe_Data_Clean.sql).
 
-Targed SQL queries regarding various business questions can be found here [link].
+Targed SQL queries regarding various business questions can be found [here].
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
