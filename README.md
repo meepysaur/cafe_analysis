@@ -16,21 +16,7 @@ Insights and recommendations are provided on the following key areas:
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/Cafe_Data_Clean.sql).
 
-Targed SQL queries regarding various business questions can be found [here].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
-
-
-# Data Structure & Initial Checks
-
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
-
-[Entity Relationship Diagram here]
+An interactive Power BI dashboard used to report and explore sales trends can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/Cafe_BI.pbix).
 
 
 
@@ -38,14 +24,16 @@ The companies main database structure as seen below consists of four tables: tab
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+In 2023, Cafe Cozy has generated a total of $76,765.50 in revenue. Across these transactions, the café sold 25,963 units, resulting in an average order value (AOV) of $8.93 and an average basket size of 3.0 items per order. Revenue is almost evenly split between channels, with 50.3% coming from in-store purchases and 49.7% from takeaway. Based on these results, the following sections will explore the key drivers behind performance and highlight opportunities to further improve commercial outcomes.
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+Below is the overview page from the Power BI dashboard:
+
+<img width="1149" height="638" alt="image" src="https://github.com/user-attachments/assets/3413a664-c0cd-47c5-9e2f-38806d132834" />
 
 
 
 # Insights Deep Dive
-### Category 1:
+### Sales Performance: 
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -119,6 +107,7 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
 * Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+* Assumed that every transaction_id accounted for 1 unique customer.
   
 * Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
   
