@@ -1,4 +1,4 @@
-**This is a self-learning and project.**
+✨ **This is a self-learning and fun project.**
 
 
 
