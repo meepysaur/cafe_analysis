@@ -41,7 +41,7 @@ Below is the overview page from the Power BI dashboard:
   
 * Revenue is almost perfectly balanced across channels, with 50.3% coming from in-store purchases and 49.7% from takeaway orders. This highlights that both channels are equally important, meaning operational planning, staffing, stock levels, and marketing strategies should continue to support both dine-in and takeaway customers.
 
-<img width="502" height="298" alt="image" src="https://github.com/user-attachments/assets/dfd7cb2c-eec7-41ed-bae8-674df14d4bbe" />
+<img width="1007" height="279" alt="image" src="https://github.com/user-attachments/assets/7ff60317-60e5-462f-9d2a-f548c8c23e29" />
 
 
 
