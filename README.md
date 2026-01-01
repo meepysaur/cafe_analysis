@@ -28,7 +28,7 @@ In 2023, Cafe Cozy has generated a total of $76,765.50 in revenue. Across these 
 
 Below is the overview page from the Power BI dashboard:
 
-<img width="1043" height="305" alt="image" src="https://github.com/user-attachments/assets/63133ad6-2689-4eed-8918-4c4b46c6364f" />
+<img width="1157" height="645" alt="image" src="https://github.com/user-attachments/assets/c0b59503-0b11-460d-a9dd-cd236cff4559" />
 
 
 
@@ -41,7 +41,8 @@ Below is the overview page from the Power BI dashboard:
   
 * Revenue is almost perfectly balanced across channels, with 50.3% coming from in-store purchases and 49.7% from takeaway orders. This highlights that both channels are equally important, meaning operational planning, staffing, stock levels, and marketing strategies should continue to support both dine-in and takeaway customers.
 
-<img width="1007" height="279" alt="image" src="https://github.com/user-attachments/assets/7ff60317-60e5-462f-9d2a-f548c8c23e29" />
+<img width="1051" height="309" alt="image" src="https://github.com/user-attachments/assets/c1c4c260-d5ee-4a8b-8473-2bb03866acd3" />
+
 
 
 
