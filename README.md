@@ -35,15 +35,14 @@ Below is the overview page from the Power BI dashboard:
 # Insights Deep Dive
 ### Sales Performance: 
 
-* The company's sales peaked in June 2023, totalling $6,684.50 monthly revenue. This suggests that during the warmer-weather foot traffic increases, and there is increased demand for beverages & cold items like Smoothies and Juices.
+* The company’s sales peaked in June 2023, generating $6,684.50 in monthly revenue. This suggests that warmer weather may increase customer foot traffic and demand for beverages and cold items such as Smoothies and Juices.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Revenue remains very steady month-to-month, averaging between $6,400 and $6,600. This stability indicates consistent demand and likely repeat purchasing behaviour across the year.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Revenue is almost perfectly balanced across channels, with 50.3% coming from in-store purchases and 49.7% from takeaway orders. This highlights that both channels are equally important, meaning operational planning, staffing, stock levels, and marketing strategies should continue to support both dine-in and takeaway customers.
 
-[Visualization specific to category 1]
+<img width="502" height="298" alt="image" src="https://github.com/user-attachments/assets/dfd7cb2c-eec7-41ed-bae8-674df14d4bbe" />
+
 
 
 ### Category 2:
