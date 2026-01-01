@@ -48,15 +48,14 @@ Below is the overview page from the Power BI dashboard:
 
 ### Product Performance:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Salads and Sandwiches are the two largest revenue contributors in 2023, generating $16,455 and $14,048 respectively.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Across 2023, the café sold a total of 25,963 product units. Coffee alone accounted for 3,686 units, making it the single most frequently purchased item. This confirms Coffee as a daily anchor product that reliably attracts customers and supports repeat visits.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* A key trend emerging from the 2023 data is that revenue growth is supported by a balanced mix of core meal products and daily-habit purchases. Coffee and Cake help generate consistent transaction volume throughout the year, while premium items such as Salads, Sandwiches, and Smoothies lift average order value and revenue per visit.
 
-[Visualization specific to category 2]
+<img width="1092" height="294" alt="image" src="https://github.com/user-attachments/assets/bdf3cf98-446d-41ec-8e55-a7834bc35c18" />
+
 
 
 ### Customer & Order Behaviour:
