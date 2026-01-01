@@ -81,7 +81,7 @@ Below is the overview page from the Power BI dashboard:
 
 
 
-# Recommendations:
+# Recommendations
 
 Based on the insights and findings above, we would recommend the Leadership Team to consider the following: 
 
@@ -95,7 +95,7 @@ Based on the insights and findings above, we would recommend the Leadership Team
  
 
 
-# Assumptions and Caveats:
+# Assumptions and Caveats
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
