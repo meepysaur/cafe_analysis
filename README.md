@@ -45,7 +45,7 @@ Below is the overview page from the Power BI dashboard:
 
 
 
-### Category 2:
+### Product Performance:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -58,7 +58,7 @@ Below is the overview page from the Power BI dashboard:
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Customer & Order Behaviour:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
@@ -71,7 +71,7 @@ Below is the overview page from the Power BI dashboard:
 [Visualization specific to category 3]
 
 
-### Category 4:
+### Payment Behaviour:
 
 * **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
   
