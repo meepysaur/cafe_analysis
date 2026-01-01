@@ -1,7 +1,3 @@
-✨ **This is a self-learning and fun project.**
-
-
-
 # Project Background
 Cafe Cozy is a fictional café that sells pastries and beverages through both in-store and takeaway orders.
 
