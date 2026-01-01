@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 
 - **Sales Performance:** How much the cafe is selling and how revenue is trending.
 - **Product Performance:** Which items sell the most and contribute most to revenue.   
-- **Customer & Order Behaviour:** How customers buy, including order spize, spend, and channel (in-store vs takeaway).
+- **Customer & Order Behaviour:** How customers buy, including order size, spend, and channel (in-store vs takeaway).
 - **Payment Behaviour:** Which payment methods customers prefer and how they impact spending. 
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/Cafe_Data_Clean.sql).
@@ -41,8 +41,7 @@ Below is the overview page from the Power BI dashboard:
   
 * Revenue is almost perfectly balanced across channels, with 50.3% coming from in-store purchases and 49.7% from takeaway orders. This highlights that both channels are equally important, meaning operational planning, staffing, stock levels, and marketing strategies should continue to support both dine-in and takeaway customers.
 
-<img width="1051" height="309" alt="image" src="https://github.com/user-attachments/assets/c1c4c260-d5ee-4a8b-8473-2bb03866acd3" />
-
+<img width="1097" height="294" alt="image" src="https://github.com/user-attachments/assets/b8571427-ed41-4dfb-806f-c3549212553b" />
 
 
 
@@ -54,60 +53,56 @@ Below is the overview page from the Power BI dashboard:
   
 * A key trend emerging from the 2023 data is that revenue growth is supported by a balanced mix of core meal products and daily-habit purchases. Coffee and Cake help generate consistent transaction volume throughout the year, while premium items such as Salads, Sandwiches, and Smoothies lift average order value and revenue per visit.
 
-<img width="1092" height="294" alt="image" src="https://github.com/user-attachments/assets/bdf3cf98-446d-41ec-8e55-a7834bc35c18" />
+<img width="1128" height="286" alt="image" src="https://github.com/user-attachments/assets/66216532-1846-461b-82c7-419c9d2cfaa0" />
 
 
 
 ### Customer & Order Behaviour:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* When analysing the AOV trend month-by-month, the data shows that AOV remains stable throughout the year, generally falling within the $8.70-$9.10 range per order. This consistency suggests that while the total number of transactions fluctuates slightly month-to-month, customer spending behaviour per visit is predictable and consistent.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* When comparing AOV by sales channel, both channels perform almost identically, indicating balanced customer spending patterns. There is no major difference in average ticket size between channels.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* In addition to stable AOV patterns, the café’s basket size remains consistent across 2023, averaging 3.0 items per transaction.
 
-[Visualization specific to category 3]
+<img width="1116" height="334" alt="image" src="https://github.com/user-attachments/assets/085a9103-a79e-4605-8dad-acd54caa4c17" />
+
 
 
 ### Payment Behaviour:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Across 2023, transactions were almost evenly split across all three payment methods (i.e. Cash, Credit Card & Digital Wallet), with each accounting for roughly one-third of total orders. This suggests that customers show no strong preference for one specific payment method.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* When analysing AOV by payment method, customer spending remains consistently close to the café-wide AOV of around $9.00 per order.
 
-[Visualization specific to category 4]
+* The combination of evenly distributed payment share and stable AOV across methods indicates predictable and reliable payment behaviour throughout 2023. This stability supports smooth operations, financial planning, and customer experience consistency, as the business is not overly dependent on any single payment channel.
+
+<img width="1125" height="316" alt="image" src="https://github.com/user-attachments/assets/72464f19-04bd-42b4-8014-91c8d624e91c" />
 
 
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we would recommend the Leadership Team to consider the following: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* **Sales Performance:** Continue resourcing both in-store and takeaway channels equally, as revenue contribution and AOV are almost identical. This includes staffing allocation, inventory planning, and marketing visibility for both formats. In addition, leverage seasonal peaks (especially mid-year months such as June) by running targeted promotions, such as summer beverage campaigns or light-meal bundlesm, to maximise naturally higher demand.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* **Product Performance:** Prioritise availability and visibility of high-revenue items such as Salads, Sandwiches, Smoothies, and Cakes, as these products materially drive total café revenue. Stock planning should minimise the risk of sell-outs. Use high-frequency anchor products such as Coffee and Cake to support upsell strategies, including bundle deals (e.g., Coffee + Cake, Lunch + Drink) to lift overall basket value.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* **Customer & Order Behaviour:** Introduce and optimise bundle-based promotions, as customers already purchase an average of three items per order. Bundles aligned to this behaviour are likely to perform strongly without requiring behavioural change. Develop loyalty or repeat-visit incentives (such as loyalty cards) to strengthen already-stable spending behaviour and encourage habitual purchasing patterns.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
+* **Payment Behaviour:** Maintain all three payment options (Cash, Credit Card, and Digital Wallet) as core offerings, given their balanced usage and equal contribution to sales. At the same time, continue to monitor emerging trends, particularly the growing preference among younger consumers for Digital Wallet payments. Continue improving checkout convenience, especially for digital and contactless users, as payment method preference appears to be driven primarily by ease and speed.
+ 
 
 
 # Assumptions and Caveats:
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-* Assumed that every transaction_id accounted for 1 unique customer.
+* Since Cake and Juice are both priced at $3, and Sandwich and Smoothie are both priced at $4, missing item names were inferred based on matching price values from the joined dataset. As multiple items share the same price point, there is a small risk that some inferred item labels may not perfectly match the original purchase.
+
+* Missing Location and Payment Method values were re-coded and evenly distributed across the available categories. This approach ensured that incomplete records could still be included in the analysis, but it may slightly distort the true distribution of transactions across channels and payment types.
   
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
+* Each Transaction_ID was assumed to represent one unique customer visit. As customer identifiers were not available, this assumption allows transaction-level analysis but may not capture scenarios where the same customer makes multiple purchases.
   
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* Revenue was analysed using gross transaction value only, with no adjustments for discounts, taxes, or operational costs. Therefore, results reflect sales performance, not profitability.
