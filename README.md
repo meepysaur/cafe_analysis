@@ -79,7 +79,7 @@ Below is the overview page from the Power BI dashboard:
 
 # Recommendations
 
-Based on the insights and findings above, we would recommend the Leadership Team to consider the following: 
+Based on the insights and findings above, we would recommend the Leadership Team (which is assumed to be a small group given the scale of the café) to consider the following: 
 
 * **Sales Performance:** Continue resourcing both in-store and takeaway channels equally, as revenue contribution and AOV are almost identical. This includes staffing allocation, inventory planning, and marketing visibility for both formats. In addition, leverage seasonal peaks (especially mid-year months such as June) by running targeted promotions, such as summer beverage campaigns or light-meal bundlesm, to maximise naturally higher demand.
   
