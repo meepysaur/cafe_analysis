@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/Cafe_Data_Clean.sql).
 
-An interactive Power BI dashboard used to report and explore sales trends can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/CafeCozy_BI.pbix).
+An interactive Power BI dashboard used to report and explore sales trends can be found [here](https://app.powerbi.com/view?r=eyJrIjoiMWJmOTE2M2ItZjBhNC00MGVhLWFkYzctZTQ0ZTU3YWVlY2Q5IiwidCI6IjI5ZmU1ZGY5LWM0ZTEtNGNkNy05YzI1LTBmYmI2MmM0OThmZSJ9).
 
 
 
