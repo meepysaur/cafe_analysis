@@ -5,10 +5,10 @@ The company collects detailed sales data from daily transactions, and operates a
 
 Insights and recommendations are provided on the following key areas:
 
-- **Sales Performance:** How much the cafe is selling and how revenue is trending.
-- **Product Performance:** Which items sell the most and contribute most to revenue.   
-- **Customer & Order Behaviour:** How customers buy, including order size, spend, and channel (in-store vs takeaway).
-- **Payment Behaviour:** Which payment methods customers prefer and how they impact spending. 
+1. **Sales Performance:** How much the cafe is selling and how revenue is trending.
+2. **Product Performance:** Which items sell the most and contribute most to revenue.
+3. **Customer & Order Behaviour:** How customers buy, including order size, spend, and channel (in-store vs takeaway).
+4. **Payment Behaviour:** Which payment methods customers prefer and how they impact spending. 
 
 The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/Cafe_Data_Clean.sql).
 
@@ -29,7 +29,7 @@ Below is the overview page from the Power BI dashboard:
 
 
 # Insights Deep Dive
-### Sales Performance: 
+### 1. Sales Performance: 
 
 * The company’s sales peaked in June 2023, generating $6,684.50 in monthly revenue. This suggests that warmer weather may increase customer foot traffic and demand for beverages and cold items such as Smoothies and Juices.
   
@@ -41,7 +41,7 @@ Below is the overview page from the Power BI dashboard:
 
 
 
-### Product Performance:
+### 2. Product Performance:
 
 * Salads and Sandwiches are the two largest revenue contributors in 2023, generating $16,455 and $14,048 respectively.
   
@@ -53,7 +53,7 @@ Below is the overview page from the Power BI dashboard:
 
 
 
-### Customer & Order Behaviour:
+### 3. Customer & Order Behaviour:
 
 * When analysing the AOV trend month-by-month, the data shows that AOV remains stable throughout the year, generally falling within the $8.70-$9.10 range per order. This consistency suggests that while the total number of transactions fluctuates slightly month-to-month, customer spending behaviour per visit is predictable and consistent.
   
@@ -65,7 +65,7 @@ Below is the overview page from the Power BI dashboard:
 
 
 
-### Payment Behaviour:
+### 4. Payment Behaviour:
 
 * Across 2023, transactions were almost evenly split across all three payment methods (i.e. Cash, Credit Card & Digital Wallet), with each accounting for roughly one-third of total orders. This suggests that customers show no strong preference for one specific payment method.
   
