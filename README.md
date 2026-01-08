@@ -1,7 +1,7 @@
 # Project Background
-café Cozy is a fictional café that sells pastries and beverages through both in-store and takeaway orders.
+Café Cozy is a fictional café that sells pastries and beverages through both in-store and takeaway orders.
 
-The company collects detailed sales data from daily transactions, and operates a straightforward business model where customers place and pay for orders at the counter. This project analyzes and synthesizes that sales data to uncover insights that can help improve café Cozy’s commercial performance and support data-driven decision making.
+The company collects detailed sales data from daily transactions, and operates a straightforward business model where customers place and pay for orders at the counter. This project analyzes and synthesizes that sales data to uncover insights that can help improve Café Cozy’s commercial performance and support data-driven decision making.
 
 Insights and recommendations are provided on the following key areas:
 
