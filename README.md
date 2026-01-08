@@ -10,9 +10,9 @@ Insights and recommendations are provided on the following key areas:
 3. **Customer & Order Behaviour:** How customers buy, including order size, spend, and channel (in-store vs takeaway).
 4. **Payment Behaviour:** Which payment methods customers prefer and how they impact spending. 
 
-The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/cafe_Data_Clean.sql).
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/Cafe_Data_Clean.sql).
 
-An interactive Power BI dashboard used to report and explore sales trends can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/cafeCozy_BI.pbix).
+An interactive Power BI dashboard used to report and explore sales trends can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/CafeCozy_BI.pbix).
 
 
 
