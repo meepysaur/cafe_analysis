@@ -1,18 +1,18 @@
 # Project Background
-Cafe Cozy is a fictional café that sells pastries and beverages through both in-store and takeaway orders.
+café Cozy is a fictional café that sells pastries and beverages through both in-store and takeaway orders.
 
-The company collects detailed sales data from daily transactions, and operates a straightforward business model where customers place and pay for orders at the counter. This project analyzes and synthesizes that sales data to uncover insights that can help improve Cafe Cozy’s commercial performance and support data-driven decision making.
+The company collects detailed sales data from daily transactions, and operates a straightforward business model where customers place and pay for orders at the counter. This project analyzes and synthesizes that sales data to uncover insights that can help improve café Cozy’s commercial performance and support data-driven decision making.
 
 Insights and recommendations are provided on the following key areas:
 
-1. **Sales Performance:** How much the cafe is selling and how revenue is trending.
+1. **Sales Performance:** How much the café is selling and how revenue is trending.
 2. **Product Performance:** Which items sell the most and contribute most to revenue.
 3. **Customer & Order Behaviour:** How customers buy, including order size, spend, and channel (in-store vs takeaway).
 4. **Payment Behaviour:** Which payment methods customers prefer and how they impact spending. 
 
-The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/Cafe_Data_Clean.sql).
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/cafe_Data_Clean.sql).
 
-An interactive Power BI dashboard used to report and explore sales trends can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/CafeCozy_BI.pbix).
+An interactive Power BI dashboard used to report and explore sales trends can be found [here](https://github.com/meepysaur/cafe_analysis/blob/main/cafeCozy_BI.pbix).
 
 
 
@@ -20,7 +20,7 @@ An interactive Power BI dashboard used to report and explore sales trends can be
 
 ### Overview of Findings
 
-In 2023, Cafe Cozy has generated a total of $76,765.50 in revenue. Across these transactions, the café sold 25,963 units, resulting in an average order value (AOV) of $8.93 and an average basket size of 3.0 items per order. Revenue is almost evenly split between channels, with 50.3% coming from in-store purchases and 49.7% from takeaway. Based on these results, the following sections will explore the key drivers behind performance and highlight opportunities to further improve commercial outcomes.
+In 2023, Café Cozy has generated a total of $76,765.50 in revenue. Across these transactions, the café sold 25,963 units, resulting in an average order value (AOV) of $8.93 and an average basket size of 3.0 items per order. Revenue is almost evenly split between channels, with 50.3% coming from in-store purchases and 49.7% from takeaway. Based on these results, the following sections will explore the key drivers behind performance and highlight opportunities to further improve commercial outcomes.
 
 Below is the overview page from the Power BI dashboard:
 
