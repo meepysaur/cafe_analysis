@@ -24,7 +24,7 @@ In 2023, Café Cozy has generated a total of $76,765.50 in revenue. Across these
 
 Below is the overview page from the Power BI dashboard:
 
-<img width="1281" height="712" alt="image" src="https://github.com/user-attachments/assets/d939bba9-e1b0-4488-814b-96b72fb7c6b7" />
+<img width="1419" height="768" alt="image" src="https://github.com/user-attachments/assets/56dbd99f-3ac5-4398-bde7-30b6118c37c4" />
 
 
 
